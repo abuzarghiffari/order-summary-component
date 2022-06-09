@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://order-summary-component-zar.netlify.app/)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/order-summary-component-B1-VYrY4c/)
 - Live Site URL: [Add live site URL here](https://order-summary-component-zar.netlify.app/)
 
 ## My process
